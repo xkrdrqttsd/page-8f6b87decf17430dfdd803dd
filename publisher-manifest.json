@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "fed6b732abd994adced95d80",
+  "owner": "xkrdrqttsd",
+  "repo": "page-8f6b87decf17430dfdd803dd",
+  "title": "芒果云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8f6b87decf17430dfdd803dd",
+      "a": "芒果云",
+      "b": "2027最新官网",
+      "entity": "芒果云",
+      "brand": "芒果云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6bf573ab959894ca4158f90aa27363ae02990e39be9bc62b7f48a76d855420c0",
+      "content": {
+        "primary_entity": "芒果云",
+        "keyword1": "芒果云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按使用设备挑选对应客户端，再依照客户端内的订阅配置说明完成导入。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定芒果云套餐，按客户端文档完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐即刻配置",
+          "AI_DESCRIPTION": "，芒果云提供基础版、旗舰版与团队版三档订阅，月付与年付均可选择，年付价格为月付十个月的水平。基础版每月 100GB 流量、支持 3 台设备在线，适合单人日常浏览与影音；旗舰版每月 300GB、支持 5 台设备，包含 IPLC 专线游戏加速与全节点流媒体解锁；团队版每月 1000GB、支持 20 台设备，配备 VIP 专属高带宽节点与企业定制路由。多设备同时使用或多人共用时，建议从旗舰版起步，按客户端文档导入订阅即可。",
+          "AI_FEATURES_INTRO": "从流量、设备数量和订阅周期三个方面对比三档套餐，选择贴合日常使用的方案。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，旗舰版 300GB、5 台设备，团队版 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "基础版面向轻量浏览，旗舰版含 IPLC 专线游戏加速，团队版提供企业定制路由与专属客户经理。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付仅需十个月价格，长期使用可优先考虑年付方式。",
+          "AI_FEATURE_TITLE_1": "流量与设备",
+          "AI_FEATURE_TITLE_2": "线路与场景",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "从确认需求到导入订阅，三步完成芒果云的基本配置。",
+          "AI_GUIDE_TITLE": "配置订阅流程",
+          "AI_HERO_INTRO": "芒果云提供基础版、旗舰版与团队版三档海外加速订阅，覆盖单人浏览、流媒体与游戏加速、团队多设备共用等场景。按设备数量与月流量选定套餐，依据客户端内的订阅配置说明导入，即可在常用设备上使用。",
+          "AI_HERO_SUBTITLE": "按设备与流量选择合适套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "年付价格为十个月月付费用",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线加速",
+          "AI_PLANS_INTRO": "基础版与旗舰版适合个人与家庭，团队版适合多人共用，可按设备数量与流量对照选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先估算同时在线的设备数量和每月大概流量，再对照三档套餐的额度确定订阅版本。",
+          "AI_STEP_TEXT_2": "确认常用设备系统与在线数量，核对所选套餐的设备数是否覆盖，避免超额导致个别设备无法连接。",
+          "AI_STEP_TEXT_3": "在芒果云客户端或订阅页面按对应文档导入订阅地址，配置完成后即可在设备上使用。",
+          "AI_STEP_TITLE_1": "确定使用需求",
+          "AI_STEP_TITLE_2": "核对设备适配",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "芒果云海外加速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "芒果云套餐之间主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "区别在月流量、同时在线设备数和线路类型。基础版100GB/3台，旗舰版300GB/5台并含IPLC专线，团队版1000GB/20台并支持定制路由。",
+          "AI_FAQ_QUESTION_2": "一台设备可以同时登录多个平台客户端吗？",
+          "AI_FAQ_ANSWER_2": "是否可多平台同时使用取决于所购套餐的设备在线数上限。基础版支持3台、旗舰版5台、团队版20台设备同时在线，建议按实际设备数选择。",
+          "AI_FAQ_QUESTION_3": "按年付和按月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "按年付价格更低，基础版¥150/年、旗舰版¥350/年、团队版¥850/年，流量与设备等权益与对应月付套餐一致，适合长期稳定使用。",
+          "AI_FAQ_QUESTION_4": "订阅在客户端中如何导入？",
+          "AI_FAQ_ANSWER_4": "先在芒果云获取订阅信息，再打开对应设备上的客户端，根据其文档将订阅地址或配置导入，保存后选择节点连接即可，具体步骤以客户端说明为准。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么样的使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供每月1000GB流量与20台设备在线，支持VIP高带宽节点和企业定制路由，适合小团队、工作室或多设备协作环境集中管理。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "beibeiyunjc.com",
+    "host": "beibeiyunjc.com"
+  },
+  "file_hashes": {
+    "index.html": "7f327e0fba0a1beec9ffa2a814c2db3fa0625f8ebeb70c9e264bd0c4aea73b79",
+    "sitemap.xml": "580e6386134a04c8cee99194cb79b5922ae605fce00e79ae127ed7b4e2aa638b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8d4a63e71fe04c6dd902e904f2b9ba89b7914c0a34d61f2869a7cee5cc19332f",
+    "robots.txt": "856a51f18b3c8a1680bedfa14dcb37a17739400b01d94cf1f38731802c5bf989",
+    "8b436e71349adc1e02c10263fc94b765.txt": "e76d59ad12f62068fb0791e340bdd2183f7edba5c9a54c409592d72d9ba0ea2b"
+  },
+  "revision": "ef34f36ad5c2d37df772465bfefda13a9214e497e0b709b726ffd3a17ff12d87"
+}
